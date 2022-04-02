@@ -1,3 +1,4 @@
+![Badge tracking project size](https://img.shields.io/github/repo-size/Preffet/Python-SHA1-password-cracker?color=%2377009e)![Badge tracking code size](https://img.shields.io/github/languages/code-size/Preffet/Python-SHA1-password-cracker?color=%2335009e)![Badge tracking last commit](https://img.shields.io/github/last-commit/Preffet/Python-SHA1-password-cracker?color=%2300379e)
 
 -----------------------------------------------------------------------------
 
